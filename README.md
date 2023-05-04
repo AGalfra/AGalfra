@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there. I'am AGalfra, an Electronics Engineer who develops software and hardware.
+Currently collaborating in ESPHome and HomeAssistant
 
 <!--
 **AGalfra/AGalfra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

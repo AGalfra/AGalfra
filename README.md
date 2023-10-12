@@ -1,5 +1,14 @@
-### 👋 Hi there. I'am AGalfra, an Electronics Engineer who develops software and hardware.
-Currently collaborating in ESPHome and HomeAssistant
+## 👋 Hi there. I'am AGalfra, an Electronics Engineer who develops software and hardware.
+
+- Currently collaborating in ESPHome and HomeAssistant
+- currently working on IoT projects based on ESP8266 and ESP32
+
+### If you want to collaborate with a coffee or mate, help me develop
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/agalfra)
+
+[![Buy me mate](https://img.shields.io/badge/buy%20me%20mate-donate-blue.svg)](https://www.buymeacoffee.com/alegalfras7)
+
 
 <!--
 **AGalfra/AGalfra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +16,7 @@ Currently collaborating in ESPHome and HomeAssistant
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
